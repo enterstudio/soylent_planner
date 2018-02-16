@@ -2,7 +2,7 @@
   "name": "soylent-planner",
   "version": "0.0.1",
   "dependencies": {
-    "bower": "~1.2"
+    "bower": "~1.7.5"
   },
   "engine": {
     "node": "0.10.x",
